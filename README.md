@@ -1,2 +1,2 @@
-# SprigRest
+# SpringRest
 Employee service application
